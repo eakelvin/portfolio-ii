@@ -1,14 +1,6 @@
 [
   {
     "id": 1,
-    "title": "MEME GENERATOR",
-    "logo": "./mg.jpg",
-    "skill": "REACT & VANILLA CSS",
-    "website": "https://memegenerator-ea.netlify.app/",
-    "github": "https://github.com/eakelvin/Meme-Generator.git"
-  },
-  {
-    "id": 2,
     "title": "DEV-JOBS APP",
     "logo": "./dev.jpg",
     "skill": "REACT & BOOTSTRAP",
@@ -16,7 +8,7 @@
     "github": "https://github.com/eakelvin/DevJobs-Project.git"
   },
   {
-    "id": 3,
+    "id": 2,
     "title": "E-COMMERCE APP",
     "logo": "./ecommerce.jpg",
     "skill": "REACT, REDUX, BOOTSTRAP & FIREBASE",
@@ -24,39 +16,7 @@
     "github": "https://github.com/eakelvin/ecommerce-app.git"
   },
   {
-    "id": 4,
-    "title": "EXPENSE TRACKER APP",
-    "logo": "./expense.jpg",
-    "skill": "REACT, REDUX & TAILWIND",
-    "website": "https://expensetracker-ea.netlify.app/",
-    "github": "https://github.com/eakelvin/expense-tracker.git"
-  },
-  {
-    "id": 5,
-    "title": "SPIN THE BOTTLE GAME",
-    "logo": "./stb.jpg",
-    "skill": "TAILWIND & JAVASCRIPT",
-    "website": "https://spinthebottleklm.netlify.app/",
-    "github": "https://github.com/blameleo/spin-the-bottle.git"
-  },
-  {
-    "id": 6,
-    "title": " NOTE APP",
-    "logo": "./notetaker.jpg",
-    "skill": "REACT, REDUX & TAILWIND",
-    "website": "https://notetaker-ea.netlify.app/",
-    "github": "https://github.com/eakelvin/note-app.git"
-  },
-  {
-    "id": 7,
-    "title": "TENZIES GAME",
-    "logo": "./tenziesgame.jpg",
-    "skill": "REACT & VANILLA CSS",
-    "website": "https://tenzies-game-ea.netlify.app/",
-    "github": "https://github.com/eakelvin/tenzies-game.git"
-  },
-  {
-    "id": 8,
+    "id": 3,
     "title": "MAVE SPORTS",
     "logo": "./ms.jpg",
     "skill": "WORDPRESS",
@@ -64,7 +24,7 @@
     "github": "https://mavesports.com/"
   },
   {
-    "id": 9,
+    "id": 4,
     "title": "TOUR APP",
     "logo": "./tour.jpg",
     "skill": "HTML, CSS, JAVASCRIPT, BOOTSTRAP",
@@ -72,7 +32,7 @@
     "github": "https://github.com/eakelvin/EA-Tour.git"
   },
   {
-    "id": 10,
+    "id": 5,
     "title": "API PROJECTS",
     "logo": "./API.jpg",
     "skill": "HTML, CSS, JAVASCRIPT, REST API",

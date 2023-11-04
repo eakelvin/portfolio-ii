@@ -7,22 +7,19 @@ const AboutSection = () => {
         <h2>About Me</h2>
         <div className="about__content">
           <div className="about__text">
-            {/* Replace the below paragraph with info about yourself */}
             <p>
-              I'm a web developer and designer based out of London, UK. I love building apps that solve real-world problems, and that are delightful to use. My specialties include TypeScript, React JS, Tailwind CSS, and Styled Components.
+              I'm a web developer and designer. I love building apps that solve real-world problems, and that are delightful to use. My specialties include JavaScript, TypeScript, Tailwind CSS and MERN Stack.
             </p>
             <p>
-              My background is in teaching and marketing, and I have a bachelor's degree in English from Kings College. I also have five adorable cats.
+              My background is in Business and IT, and I have a bachelor's degree in Business Information Technology from Kwame Nkrumah University of Science and Technology.
             </p>
-            {/* Provide a link to your resume */}
-            <a href="#" className="btn">
+            <a href="https://flowcv.com/resume/r8p9dbnsrn" className="btn">
               My Resume
             </a>
           </div>
 
           <div className="about__photo-container">
-            {/* Add a nice photo of yourself */}
-            <img className="about__photo" src="./images/jane.jpg" alt="" />
+            <img className="about__photo" src="./images/photo_2_2023-10-19_10-41-00.jpg" alt="" />
           </div>
         </div>
       </div>

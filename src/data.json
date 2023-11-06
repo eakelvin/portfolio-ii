@@ -40,7 +40,7 @@
   {
     "id": 5,
     "title": "TOUR APP",
-    "description": "",
+    "description": "Explore and discover the best tourism content in Ghana",
     "logo": "/images/tour.jpg",
     "skills": ["HTML", "CSS", "JavaScript", "BOOTSTRAP"],
     "website": "https://tour-ea.netlify.app/",
@@ -49,7 +49,7 @@
   {
     "id": 6,
     "title": "API PROJECTS",
-    "description": "",
+    "description": "A collection of different web apps that utilize APIs",
     "logo": "/images/API.jpg",
     "skills": ["HTML", "VANILLA CSS", "JAVASCRIPT", "REST API"],
     "website": "https://api-app-ea.netlify.app/",
@@ -58,11 +58,39 @@
   {
     "id": 7,
     "title": "TERMINAL CHATBOT",
-    "description": "A chatbot to communicate in the terminal",
-    "logo": "",
+    "description": "A chatbot to communicate with an AI in the terminal",
+    "logo": "/images/terminal.jpg",
     "skills": ["NODE JS", "JAVASCRIPT", "API"],
     "website": "",
     "github": "https://github.com/eakelvin/terminal-chatbot.git"
+  },
+  {
+    "id": 8,
+    "title": "PERSONAL BLOG",
+    "description": "A website where I share my thoughts, ideas and experiences",
+    "logo": "/images/blog.jpg",
+    "skills": ["HTML", "CSS", "NODE JS", "MONDODB", "EXPRESS JS"],
+    "website": "https://ea-blog.onrender.com/",
+    "github": "https://github.com/eakelvin/blog.git"
+  },
+  {
+    "id": 9,
+    "title": "LIVE CHAT",
+    "description": "A webapp to helps users communicate with eachother",
+    "logo": "/images/livechat1.jpg",
+    "logo2": "/images/livechat2.jpg",
+    "skills": ["TAILWIND", "MERN STACK"],
+    "website": "",
+    "github": "https://github.com/eakelvin/livechat.git"
+  },
+   {
+    "id": 10,
+    "title": "",
+    "description": "",
+    "logo": "",
+    "skills": [],
+    "website": "",
+    "github": ""
   }
   
 

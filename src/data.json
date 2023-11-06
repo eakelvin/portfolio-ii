@@ -85,12 +85,12 @@
   },
    {
     "id": 10,
-    "title": "",
-    "description": "",
-    "logo": "",
-    "skills": [],
-    "website": "",
-    "github": ""
+    "title": "COUNTRY APP",
+    "description": "A website that contains details of all countries in the world",
+    "logo": "/images/country-app.jpg",
+    "skills": ["API", "TAILWIND", "REACT"],
+    "website": "https://countries-app-ea.netlify.app/",
+    "github": "https://github.com/eakelvin/countries-app.git"
   }
   
 

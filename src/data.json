@@ -12,7 +12,7 @@
   },
   {
     "id": 2,
-    "title": "DEV-JOBS APP",
+    "title": "DEV JOBS",
     "description": "A webapp to help users search for jobs",
     "logo": "/images/dev.jpg",
     "skills": ["REACT", "BOOTSTRAP"],
@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "title": "E-COMMERCE APP",
+    "title": "E-COMMERCE",
     "description": "A webapp to help users shop for products",
     "logo": "/images/ecommerce.jpg",
     "skills": ["REACT", "REDUX", "BOOTSTRAP", "FIREBASE"],
@@ -39,7 +39,7 @@
   },
   {
     "id": 5,
-    "title": "TOUR APP",
+    "title": "EA TOUR",
     "description": "Explore and discover the best tourism content in Ghana",
     "logo": "/images/tour.jpg",
     "skills": ["HTML", "CSS", "JavaScript", "BOOTSTRAP"],

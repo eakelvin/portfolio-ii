@@ -3,16 +3,18 @@
     "id": 1,
     "title": "FINANCIAL CHATBOT",
     "description": "A financial chatbot to answer financial questions",
-    "logo": "",
+    "logo": "./images/fundtalk.jpg",
+    "logo1": "./images/fundtalk1.jpg",
+    "logo2": "./images/fundtalk2.jpg",
     "skill": "MERN STACK",
-    "website": "",
+    "website": "https://finalfundtalk.onrender.com",
     "github": "https://github.com/BabatundeJimoh/FundTalk.git"
   },
   {
     "id": 2,
     "title": "DEV-JOBS APP",
     "description": "A webapp to help users search for jobs",
-    "logo": "./dev.jpg",
+    "logo": "./images/dev.jpg",
     "skill": "REACT & BOOTSTRAP",
     "website": "https://devjobs-ea.netlify.app/",
     "github": "https://github.com/eakelvin/DevJobs-Project.git"
@@ -21,7 +23,7 @@
     "id": 3,
     "title": "E-COMMERCE APP",
     "description": "A webapp to help users shop for products",
-    "logo": "./ecommerce.jpg",
+    "logo": "./images/ecommerce.jpg",
     "skill": "REACT, REDUX, BOOTSTRAP & FIREBASE",
     "website": "https://ecommerce-ea.netlify.app/",
     "github": "https://github.com/eakelvin/ecommerce-app.git"
@@ -30,7 +32,7 @@
     "id": 3,
     "title": "MAVE SPORTS",
     "description": "A website for sports fans specifically football and basketball",
-    "logo": "./ms.jpg",
+    "logo": "./images/ms.jpg",
     "skill": "WORDPRESS",
     "website": "https://mavesports.com/",
     "github": "https://mavesports.com/"
@@ -39,7 +41,7 @@
     "id": 4,
     "title": "TOUR APP",
     "description": "",
-    "logo": "./tour.jpg",
+    "logo": "./images/tour.jpg",
     "skill": "HTML, CSS, JAVASCRIPT, BOOTSTRAP",
     "website": "https://tour-ea.netlify.app/",
     "github": "https://github.com/eakelvin/EA-Tour.git"
@@ -48,7 +50,7 @@
     "id": 5,
     "title": "API PROJECTS",
     "description": "",
-    "logo": "./API.jpg",
+    "logo": "./images/API.jpg",
     "skill": "HTML, CSS, JAVASCRIPT, REST API",
     "website": "https://api-app-ea.netlify.app/",
     "github": "https://github.com/eakelvin/Api-projects.git"
@@ -57,7 +59,7 @@
     "id": 6,
     "title": "TERMINAL CHATBOT",
     "description": "A chatbot to communicate in the terminal",
-    "logo": "",
+    "logo": "./images",
     "skill": "",
     "website": "",
     "github": "https://github.com/eakelvin/terminal-chatbot.git"

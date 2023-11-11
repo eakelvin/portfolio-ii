@@ -24,7 +24,8 @@
     "website": "https://devjobs-ea.netlify.app/",
     "github": "https://github.com/eakelvin/DevJobs-Project.git",
     "animation": {
-      "type":"fade-right"
+      "type":"fade-right",
+      "easing": "ease-in-out"
     }
   },
   {

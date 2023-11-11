@@ -8,7 +8,12 @@
     "logo2": "/images/fundtalk2.jpg",
     "skills": ["MERN STACK", "API", "BOOTSTRAP"],
     "website": "https://finalfundtalk.onrender.com",
-    "github": "https://github.com/BabatundeJimoh/FundTalk.git"
+    "github": "https://github.com/BabatundeJimoh/FundTalk.git",
+    "animation": {
+      "type": "fade-down",
+      "easing": "linear",
+      "duration": 1500
+    }
   },
   {
     "id": 2,
@@ -17,7 +22,10 @@
     "logo": "/images/dev.jpg",
     "skills": ["REACT", "BOOTSTRAP"],
     "website": "https://devjobs-ea.netlify.app/",
-    "github": "https://github.com/eakelvin/DevJobs-Project.git"
+    "github": "https://github.com/eakelvin/DevJobs-Project.git",
+    "animation": {
+      "type":"fade-right"
+    }
   },
   {
     "id": 3,
@@ -26,7 +34,10 @@
     "logo": "/images/ecommerce.jpg",
     "skills": ["REACT", "REDUX", "BOOTSTRAP", "FIREBASE"],
     "website": "https://ecommerce-ea.netlify.app/",
-    "github": "https://github.com/eakelvin/ecommerce-app.git"
+    "github": "https://github.com/eakelvin/ecommerce-app.git",
+    "animation": {
+      "type":"fade-down-right"
+    }
   },
   {
     "id": 4,
@@ -35,7 +46,10 @@
     "logo": "/images/mave1.jpg",
     "skills": ["WORDPRESS"],
     "website": "https://mavesports.com/",
-    "github": "https://mavesports.com/"
+    "github": "https://mavesports.com/",
+    "animation": {
+      "type":"flip-left"
+    }
   },
   {
     "id": 5,
@@ -44,7 +58,10 @@
     "logo": "/images/tour.jpg",
     "skills": ["HTML", "CSS", "JavaScript", "BOOTSTRAP"],
     "website": "https://tour-ea.netlify.app/",
-    "github": "https://github.com/eakelvin/EA-Tour.git"
+    "github": "https://github.com/eakelvin/EA-Tour.git",
+    "animation": {
+      "type":"flip-right"
+    }
   },
   {
     "id": 6,
@@ -53,7 +70,10 @@
     "logo": "/images/API.jpg",
     "skills": ["HTML", "VANILLA CSS", "JAVASCRIPT", "REST API"],
     "website": "https://api-app-ea.netlify.app/",
-    "github": "https://github.com/eakelvin/Api-projects.git"
+    "github": "https://github.com/eakelvin/Api-projects.git",
+    "animation": {
+      "type":"flip-up"
+    }
   },
   {
     "id": 7,
@@ -62,7 +82,10 @@
     "logo": "/images/terminal.jpg",
     "skills": ["NODE JS", "JAVASCRIPT", "API"],
     "website": "",
-    "github": "https://github.com/eakelvin/terminal-chatbot.git"
+    "github": "https://github.com/eakelvin/terminal-chatbot.git",
+    "animation": {
+      "type":"flip-down"
+    }
   },
   {
     "id": 8,
@@ -71,7 +94,10 @@
     "logo": "/images/blog.jpg",
     "skills": ["HTML", "CSS", "NODE JS", "MONDODB", "EXPRESS JS"],
     "website": "https://ea-blog.onrender.com/",
-    "github": "https://github.com/eakelvin/blog.git"
+    "github": "https://github.com/eakelvin/blog.git",
+    "animation": {
+      "type":"zoom-in-right"
+    }
   },
   {
     "id": 9,
@@ -81,7 +107,10 @@
     "logo2": "/images/livechat2.jpg",
     "skills": ["TAILWIND", "MERN STACK"],
     "website": "",
-    "github": "https://github.com/eakelvin/livechat.git"
+    "github": "https://github.com/eakelvin/livechat.git",
+    "animation": {
+      "type":"zoom-in-left"
+    }
   },
    {
     "id": 10,
@@ -90,7 +119,10 @@
     "logo": "/images/country-app.jpg",
     "skills": ["API", "TAILWIND", "REACT"],
     "website": "https://countries-app-ea.netlify.app/",
-    "github": "https://github.com/eakelvin/countries-app.git"
+    "github": "https://github.com/eakelvin/countries-app.git",
+    "animation": {
+      "type":"zoom-out-up"
+    }
   }
   
 

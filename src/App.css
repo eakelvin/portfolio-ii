@@ -405,7 +405,7 @@ body:not(.user-is-tabbing) a:focus {
 
 .header {
     background: linear-gradient(rgba(0,0,0, .1), rgba(0,0,0, .4)), 
-        url('./images/header.jpg');
+        url('/images/header.jpg');
     height: 100vh;
     background-size: cover;
     background-position: center;
@@ -439,6 +439,10 @@ body:not(.user-is-tabbing) a:focus {
 /* --------------------------------------- */
 /* ----- Work ----- */
 /* --------------------------------------- */
+.space {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
 
 .work__box {
     display: flex;

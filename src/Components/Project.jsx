@@ -5,7 +5,7 @@ const Project = ({ project }) => {
 
   return (
     <div data-aos={animation && animation.type}>
-      <div className="work__box">
+      <div className="work__box space">
         <div className="work__text">
           <h3>{title}</h3>
           <p>{description}</p>

@@ -6,11 +6,13 @@ import AboutSection from './Components/About'
 import ContactSection from './Components/Contact'
 import Footer from './Components/Footer'
 import BackToTopButton from './Components/Scroll'
+import Particle from './Components/Particle'
 
 function App() {
 
   return (
     <>
+      {/* <Particle /> */}
       <Header />
       <WorkSection />
       <AboutSection />

@@ -12,7 +12,6 @@ function App() {
 
   return (
     <>
-      {/* <Particle /> */}
       <Header />
       <WorkSection />
       <AboutSection />
